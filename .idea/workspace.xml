@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7a063e-f531-476a-8535-f1c014dc5e5f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/br/com/carstore/servlet/CreateCarServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/webapp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/carstore/dao/CarDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/carstore/dao/CarDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/carstore/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/carstore/model/Car.java" afterDir="false" />
-    </list>
+    <list default="true" id="0d7a063e-f531-476a-8535-f1c014dc5e5f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +83,18 @@
       <option name="presentableId" value="Default" />
       <updated>1695853741552</updated>
     </task>
+    <task id="LOCAL-00001" summary="Alteração do LAB 1 e Inclusão do LAB 2">
+      <created>1695861180821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695861180821</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Alteração do LAB 1 e Inclusão do LAB 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alteração do LAB 1 e Inclusão do LAB 2" />
   </component>
 </project>
